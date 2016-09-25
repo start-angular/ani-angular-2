@@ -1,0 +1,66 @@
+.btn-rounded {
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+}
+
+.btn-bordered {
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	background: #FFFFFF;
+	border-width: 2px;
+	&:hover {
+		color: #ffffff;
+	}
+	&.btn-primary {
+		border-color: $brand-primary;
+		color: $brand-primary;
+		&:hover {
+			background: $brand-primary;
+			color: #ffffff;
+		}
+	}
+	&.btn-info {
+		border-color: $brand-info;
+		color: $brand-info;
+		&:hover {
+			background: $brand-info;
+			color: #ffffff;
+		}
+	}
+	&.btn-warning {
+		border-color: $brand-warning;
+		color: $brand-warning;
+		&:hover {
+			background: $brand-warning;
+			color: #ffffff;
+		}
+	}
+	&.btn-success {
+		border-color: $brand-success;
+		color: $brand-success;
+		&:hover {
+			background: $brand-success;
+			color: #ffffff;
+		}
+	}
+	&.btn-danger {
+		border-color: $brand-danger;
+		color: $brand-danger;
+		&:hover {
+			background: $brand-danger;
+			color: #ffffff;
+		}
+	}
+	&.disabled {
+		color: #717171;
+
+	}
+}
+.btn-circle {
+	-webkit-border-radius: 50%;
+	        border-radius: 50%;
+}
