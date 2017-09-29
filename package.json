@@ -1,9 +1,9 @@
 {
-  "name": "SB-Admin-BS4-Angular-2",
+  "name": "ANI-Angular-2",
   "version": "0.0.0",
   "description": "Modular seed project for Angular 2 apps with fast, statically typed build",
   "repository": {
-    "url": "https://github.com/start-angular/SB-Admin-BS4-Angular-2"
+    "url": "https://github.com/start-angular/ani-angular-2"
   },
   "scripts": {
     "build.dev": "gulp build.dev --color --config-env dev",
