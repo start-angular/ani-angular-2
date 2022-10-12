@@ -1,4 +1,6 @@
-# Ani Theme rewritten in Angular2 and Bootstrap 4
+## NOTICE: This repo has been deprecated
+
+## [DEPRECATED] Ani Theme rewritten in Angular2 and Bootstrap 4
 
 This project is a part of the famous ANI Theme [Ani Theme v2.0](http://www.strapui.com/themes/ani-angular-2-bootstrap-4-theme/) to Angular2 Theme.
 
